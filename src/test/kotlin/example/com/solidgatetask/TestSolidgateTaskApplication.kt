@@ -20,5 +20,5 @@ class TestSolidgateTaskApplication {
 }
 
 fun main(args: Array<String>) {
-	fromApplication<SolidgateTaskApplication>().with(TestSolidgateTaskApplication::class).run(*args)
+	fromApplication<SolidGateTaskApplication>().with(TestSolidgateTaskApplication::class).run(*args)
 }

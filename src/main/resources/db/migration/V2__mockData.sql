@@ -1,0 +1,10 @@
+INSERT INTO "users" (id, name, balance) VALUES (1, 'John Doe', 1500);
+INSERT INTO "users" (id, name, balance) VALUES (2, 'Jane Smith', 2300);
+INSERT INTO "users" (id, name, balance) VALUES (3, 'Robert Johnson', 1200);
+INSERT INTO "users" (id, name, balance) VALUES (4, 'Emily Davis', 3100);
+INSERT INTO "users" (id, name, balance) VALUES (5, 'Michael Brown', 2750);
+INSERT INTO "users" (id, name, balance) VALUES (6, 'Jessica Wilson', 1800);
+INSERT INTO "users" (id, name, balance) VALUES (7, 'Daniel Taylor', 1450);
+INSERT INTO "users" (id, name, balance) VALUES (8, 'Laura Anderson', 2200);
+INSERT INTO "users" (id, name, balance) VALUES (9, 'Thomas Lee', 1950);
+INSERT INTO "users" (id, name, balance) VALUES (10, 'Sarah White', 2600);
