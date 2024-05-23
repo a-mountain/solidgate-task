@@ -1,6 +1,6 @@
 package example.com.solidgatetask.helper
 
-import example.com.solidgatetask.BulkUserBalanceUpdate
+import example.com.solidgatetask.dto.BulkUserBalanceUpdate
 import org.springframework.boot.test.web.client.TestRestTemplate
 import org.springframework.boot.test.web.client.postForEntity
 

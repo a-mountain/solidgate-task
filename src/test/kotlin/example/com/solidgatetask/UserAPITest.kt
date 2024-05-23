@@ -2,6 +2,8 @@ package example.com.solidgatetask
 
 import example.com.solidgatetask.helper.BaseDBTest
 import example.com.solidgatetask.helper.UserApiSupport
+import example.com.solidgatetask.dto.BulkUserBalanceUpdate
+import example.com.solidgatetask.data.UserRepository
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired
